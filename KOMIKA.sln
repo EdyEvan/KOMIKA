@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOMIKA", "KOMIKA\KOMIKA.csproj", "{0D715431-D478-4C2D-8A9B-2389D55D98DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D715431-D478-4C2D-8A9B-2389D55D98DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D715431-D478-4C2D-8A9B-2389D55D98DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D715431-D478-4C2D-8A9B-2389D55D98DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D715431-D478-4C2D-8A9B-2389D55D98DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B583ED22-C6F1-4F56-B379-E8DEFE215032}
+	EndGlobalSection
+EndGlobal
